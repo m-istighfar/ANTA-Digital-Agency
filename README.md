@@ -254,7 +254,7 @@ c. Create back to top feature
 
 Visit the link to see the finished Javascript Code.
 
-<a href="./assets/js/script.js"> <strong> Complete CSS</strong></a>
+<a href="./assets/js/script.js"> <strong> Complete JS Code</strong></a>
 
 ## Deployment Process
 

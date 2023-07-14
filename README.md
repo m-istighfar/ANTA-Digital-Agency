@@ -1,7 +1,38 @@
 # Anta Digital Agency Website
 
-## Description
+## Introduction
 This repository contains the source code for the website [antariksa.site](https://antariksa.site/). Anta Digital Agency is a digital agency that offers a range of services including website design and development, digital marketing, SEO optimization, social media management, and more. The website serves as a digital presence for the agency, providing information about their services, showcasing their projects, and facilitating communication with potential clients.
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Website Preview](#Website-Preview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [How to Run the Website Locally](#How-to-Run-the-Website-Locally)
+- [Contributing](#contributing)
+- [License](#license)
+- [Development Team](Development-Team)
+
+
+## Website Preview
+
+<a href="https://antariksa.site/"> <strong> Live Preview</strong></a>
+
+- Header
+![Header](./readme-images/home.png)
+
+- About Section
+![About Section](./readme-images/about-service.png)
+
+- Service Section
+![Service Section](./readme-images/services.png)
+
+- CTA and Project Section
+![CTA and Project Section](./readme-images/cta-projek.png)
+
+- Contact, FAQ, and Footer
+![Contact, FAQ, and Footer](./readme-images/sisa.png)
 
 ## Features
 The website offers the following features:

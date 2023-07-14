@@ -1,54 +1,80 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/innohub)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/innohub?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/innohub?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/QAkjqXuICQE?style=social)](https://youtu.be/QAkjqXuICQE)
+# Anta Digital Agency Website
 
-  <br />
-  <br />
+## Description
+This repository contains the source code for the website [antariksa.site](https://antariksa.site/). Anta Digital Agency is a digital agency that offers a range of services including website design and development, digital marketing, SEO optimization, social media management, and more. The website serves as a digital presence for the agency, providing information about their services, showcasing their projects, and facilitating communication with potential clients.
 
-  <h2 align="center">InnoHub - Digital Marketing Agency Website</h2>
+## Features
+The website offers the following features:
 
-  InnoHub is a fully responsive digital marketing agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+1. Home: The home page provides an overview of Anta Digital Agency, highlighting its key offerings, values, and unique selling points.
 
-  <a href="https://codewithsadee.github.io/innohub/"><strong>➥ Live Demo</strong></a>
+2. About: The About page provides detailed information about Anta Digital Agency, including its history, mission, vision, and values.
 
-</div>
+3. Why Choose Us: This section emphasizes the unique advantages and benefits of working with Anta Digital Agency, showcasing their expertise, quality of work, and client satisfaction.
 
-<br />
+4. Services: The Services page outlines the range of services offered by Anta Digital Agency, providing detailed descriptions of each service.
 
-### Demo Screeshots
+5. Projects/Portfolio: The Projects or Portfolio section showcases the agency's previous work, including case studies, client testimonials, or examples of successful campaigns or designs.
 
-![InnoHub Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+6. Contact: The Contact page provides contact information for Anta Digital Agency, allowing visitors to reach out for inquiries, consultations, or quotes.
 
-### Prerequisites
+7. FAQ (Frequently Asked Questions): The FAQ section addresses common questions or concerns that potential clients may have, providing answers to help them make informed decisions.
 
-Before you begin, ensure you have met the following requirements:
+## Technologies Used
+The website is built using the following technologies:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- HTML
+- CSS
+- JavaScript
 
-### Run Locally
+## How to Run the Website Locally
+1. Make sure you have [Git](https://git-scm.com/) installed on your computer.
+2. Open a terminal or command prompt.
+3. Run the following command to clone the repository:
 
-To run **InnoHub** locally, run this command on your git bash:
+   ```bash
+   git clone https://github.com/your_username/antariksa-website.git
+   ```
 
-Linux and macOS:
+   Replace `your_username` with your GitHub username.
 
-```bash
-sudo git clone https://github.com/codewithsadee/innohub.git
-```
+4. Once the cloning is complete, navigate to the project folder:
 
-Windows:
+   ```bash
+   cd antariksa-website
+   ```
 
-```bash
-git clone https://github.com/codewithsadee/innohub.git
-```
+5. Open the `index.html` file using a web browser.
 
-### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+## Contributing
+If you would like to contribute to the development of the Antariksa Website, you can follow these steps:
 
-### License
+1. Fork this repository.
+2. Create a new branch:
 
-This project is **free to use** and does not contains any license.
+   ```bash
+   git checkout -b new-feature
+   ```
+
+3. Make the desired changes to the code.
+4. Commit your changes:
+
+   ```bash
+   git commit -m "Add new feature"
+   ```
+
+5. Push to the newly created branch:
+
+   ```bash
+   git push origin new-feature
+   ```
+
+6. Create a Pull Request in this repository.
+
+## License
+Specify the license you have chosen for this project. Example: This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information
+
+## Development Team
+- Developer Name - [GitHub Username](https://github.com/m-istighfar)
+For any questions or feedback, please contact the development team via [email](mailto:istighfar.amal@gmail.com).

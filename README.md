@@ -12,12 +12,14 @@ This repository contains the source code for the website [antariksa.site](https:
 - [How to Run the Website Locally](#how-to-run-the-website-locally)
 - [Contributing](#contributing)
 - [License](#license)
-- [Development Team](Development-team)
+- [Development Team](development-team)
+- [Development Process](development-process)
+- [Deployment Process](deployment-process)
 
 
 ## Website Preview
 
-<a href="https://antariksa.site/"> <strong> Live Preview</strong></a>
+<a href="https://antariksa.site/" align="center"> <strong> Live Preview</strong></a>
 
 - Header
 ![Header](./readme-images/home.png)
@@ -109,3 +111,166 @@ Specify the license you have chosen for this project. Example: This project is l
 ## Development Team
 - Developer Name - [GitHub Username](https://github.com/m-istighfar)
 For any questions or feedback, please contact the development team via [email](mailto:istighfar.amal@gmail.com).
+
+## Development Process
+
+1. Make a HTML Structure
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Metadata, title, and external resource links -->
+  </head>
+  <body>
+    <header>
+      <!-- Logo, navigation menu, etc. -->
+    </header>
+
+    <section id="home">
+      <!-- Home section content -->
+    </section>
+
+    <section id="about">
+      <!-- About section content -->
+    </section>
+
+    <section id="services">
+      <!-- Services section content -->
+    </section>
+
+    <section id="features">
+      <!-- Features section content -->
+    </section>
+
+    <section id="project">
+      <!-- Project section content -->
+    </section>
+
+    <section id="contact">
+      <!-- Contact section content -->
+    </section>
+
+    <section id="faq">
+      <!-- FAQ section content -->
+    </section>
+
+    <footer>
+      <!-- Footer content -->
+    </footer>
+  </body>
+</html>
+```
+
+Visit the link to see the finished html structure
+
+2. Make a CSS Styling
+
+```css
+/* Home Section */
+#home {
+  /* Styles for the home section */
+}
+
+/* About Section */
+#about {
+  /* Styles for the about section */
+}
+
+/* Services Section */
+#services {
+  /* Styles for the services section */
+}
+
+/* Features Section */
+#features {
+  /* Styles for the features section */
+}
+
+/* Project Section */
+#project {
+  /* Styles for the project section */
+}
+
+/* Contact Section */
+#contact {
+  /* Styles for the contact section */
+}
+
+/* FAQ Section */
+#faq {
+  /* Styles for the FAQ section */
+}
+
+/* Footer Section */
+footer {
+  /* Styles for the footer section */
+}
+```
+
+Visit the link to see the finished CSS Styling
+
+3. Make a CSS Responsive
+
+```css
+/* Default styles for all screen sizes */
+
+/* Styles for screen width >= 575px */
+@media (min-width: 575px) {
+  /* Additional styles for screens wider than 575px */
+}
+
+/* Styles for screen width >= 768px */
+@media (min-width: 768px) {
+  /* Additional styles for screens wider than 768px */
+}
+
+/* Styles for screen width >= 992px */
+@media (min-width: 992px) {
+  /* Additional styles for screens wider than 992px */
+}
+
+/* Styles for screen width >= 1200px */
+@media (min-width: 1200px) {
+  /* Additional styles for screens wider than 1200px */
+}
+```
+
+Visit the link to see the finished CSS Responsive
+
+4. Making a Javascript Code
+
+On this website
+JavaScript code is made with several goals, such as:
+
+a. Make the navbar appear and disappear
+b. Make sections on the FAQ appear and disappear
+c. Create back to top feature
+
+Visit the link to see the finished Javascript Code.
+
+## Deployment Process
+
+- Step 1: Create a Repository on GitHub
+
+1. Sign in your GitHub account.
+2. Create a new repository to host website's source code.
+3. Push website's source code to the GitHub repository.
+
+- Step 2: Connect GitHub Repository to Netlify
+
+1. Sign in to Netlify account
+2. On the Netlify dashboard, click on "New site from Git" or "New site" button
+3. Select Git provider (GitHub) and authorize Netlify to access repositories.
+4. Choose the GitHub repository
+5. Configure the build settings, including the build command and output directory.
+6. Optionally, set up custom domain and SSL certificate settings.
+7. Trigger the initial deployment by clicking on "Deploy site" or let Netlify automatically build and deploy website based on changes to the repository.
+
+- Step 3: Set Up DNS Configuration in Cloudflare
+
+1. Sign in to Cloudflare account
+2. Add domain to Cloudflare by following the instructions provided.
+3. Update domain's DNS settings to point to Netlify's servers. This usually involves adding DNS records such as `CNAME` with Netlify's provided values.
+4. Configure any additional settings require in Cloudflare, such as SSL/TLS options, caching, or security settings.
+5. Finish, Your website already live.

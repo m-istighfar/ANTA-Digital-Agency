@@ -5,14 +5,14 @@ This repository contains the source code for the website [antariksa.site](https:
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Website Preview](#Website-Preview)
+- [Website Preview](#Website-preview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [How to Run the Website Locally](#How-to-Run-the-Website-Locally)
+- [How to Run the Website Locally](#How-to-run-the-website-locally)
 - [Contributing](#contributing)
 - [License](#license)
-- [Development Team](Development-Team)
+- [Development Team](Development-team)
 
 
 ## Website Preview

@@ -19,7 +19,7 @@ This repository contains the source code for the website [antariksa.site](https:
 
 ## Website Preview
 
-<a href="https://antariksa.site/" align="center"> <strong> Live Preview</strong></a>
+<a href="https://antariksa.site/"> <strong> Live Preview</strong></a>
 
 - Header
 ![Header](./readme-images/home.png)
@@ -163,6 +163,7 @@ For any questions or feedback, please contact the development team via [email](m
 ```
 
 Visit the link to see the finished html structure
+<a href="index.html"> <strong> Complete HTML</strong></a>
 
 2. Make a CSS Styling
 
@@ -210,6 +211,8 @@ footer {
 
 Visit the link to see the finished CSS Styling
 
+<a href="./assets/css/style.css"> <strong> Complete CSS</strong></a>
+
 3. Make a CSS Responsive
 
 ```css
@@ -238,6 +241,8 @@ Visit the link to see the finished CSS Styling
 
 Visit the link to see the finished CSS Responsive
 
+<a href="./assets/css/style.css"> <strong> Complete CSS</strong></a>
+
 4. Making a Javascript Code
 
 On this website
@@ -248,6 +253,8 @@ b. Make sections on the FAQ appear and disappear
 c. Create back to top feature
 
 Visit the link to see the finished Javascript Code.
+
+<a href="./assets/js/script.js"> <strong> Complete CSS</strong></a>
 
 ## Deployment Process
 
